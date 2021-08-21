@@ -18,16 +18,6 @@ export class MyComponentComponent implements OnInit {
   ngOnInit() {}
   listFilter = 'Patel';
 
-  employee1 = [
-    {
-      id: 1,
-      name: 'Akshay Patel'
-    },
-    {
-      id: 2,
-      name: 'Panth Patel'
-    }
-  ];
 }
 ```
 my-component.component.html
